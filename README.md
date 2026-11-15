@@ -17,13 +17,13 @@ The goal of this project was to develop a structured reporting system to:
 <br><B>The</B> challenges involved organizing daily sales transaction data, maintaining consistency between daily and annual MIS reports, and connecting the consolidated dataset to an interactive dashboard. Ensuring accurate calculations, cumulative target tracking, and automatic updates of dashboard visualizations after refreshing the data connection were also important considerations.
 
 ## 🔧 Key Features:
-# 1.Daily MIS Report
+### 1.Daily MIS Report
 - Daily Sales Monitoring: Tracked daily revenue and quantity sold against assigned targets.
 - Performance Analysis: Monitored sales network-wise, zone-wise, and product category-wise performance.
-# 2.Annual Cumulative MIS Report
+### 2.Annual Cumulative MIS Report
 - Monthly Performance Tracking: Monitored monthly revenue and quantity sold.
 - YTD Analysis: Tracked cumulative performance against annual targets.
-# 3.Interactive Visual Dashboard
+### 3.Interactive Visual Dashboard
 - Dynamic Data Updates: Updated KPIs and visualizations by refreshing the consolidated sales dataset.
 - KPI Cards: Displayed Total Sales, Quantity Sold, Invoice Count, Average Invoice Value, and Unique Customers.
 - Sales Analysis: Visualized monthly and quarterly trends, regional performance, payment types, and top-performing customers, networks, and products.
