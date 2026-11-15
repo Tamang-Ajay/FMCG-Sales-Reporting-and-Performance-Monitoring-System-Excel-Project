@@ -1,6 +1,6 @@
 # FMCG-Sales-Reporting-and-Performance-Monitoring-System-Excel-Project
 # 🛒 FMCG Sales Reporting and Performance Monitoring System
-# <a href="#">View Project</a> OR <a href="https://youtu.be/KjxdU6VLq0A">Project Video Demonstration</a>
+# <a href="https://github.com/Tamang-Ajay/FMCG-Sales-Reporting-and-Performance-Monitoring-System-Excel-Project/blob/main/FMCG%20Sales%20Reporting%20and%20Performance%20Monitoring%20System.pdf">View Project</a> OR <a href="https://youtu.be/KjxdU6VLq0A">Project Video Demonstration</a>
 
 ## 📌Overview:
 I developed an Excel-based FMCG Sales Reporting and Performance Monitoring System consisting of three major components: Daily MIS Reporting, Annual Cumulative MIS Reporting, and an Interactive Visual Dashboard.
